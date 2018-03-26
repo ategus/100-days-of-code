@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: March 26, 2018
+
+**Today's Progress**: higher-order functions in javascript, going back to the basics
+
+**Thoughts:** i like the good old books evene if the are in electronic form
+
+**Link(s) to work**
+1. http://eloquentjavascript.net/05_higher_order.html
+
 ### Day 2: March 25, 2018
 
 **Today's Progress**: binarytrees in javascript
