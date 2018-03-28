@@ -3,7 +3,7 @@
 
 ### Day 4: March 28, 2018
 
-**Today's Progress**: some experiments with nodejs and http-server from npm
+**Today's Progress**: some ctx canvas html5
 
 **Thoughts:** some strugle with the cts and canvas in javascript wanted to have an boarder around an rectangle
 
