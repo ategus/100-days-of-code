@@ -1,13 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 3: March 26, 2018
 
-**Today's Progress**: higher-order functions in javascript, going back to the basics
+### Day 4: March 28, 2018
 
-**Thoughts:** i like the good old books evene if the are in electronic form
+**Today's Progress**: some experiments with nodejs and http-server from npm
+
+**Thoughts:** some strugle with the cts and canvas in javascript wanted to have an boarder around an rectangle
 
 **Link(s) to work**
-1. http://eloquentjavascript.net/05_higher_order.html
+
+
+### Day 3: March 27, 2018
+
+**Today's Progress**: some experiments with nodejs and http-server from npm
+
+**Thoughts:** it's awesome to see how fast you can deploy
+
+**Link(s) to work**
+
 
 ### Day 2: March 25, 2018
 
