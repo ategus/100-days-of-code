@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 9-15: March 31, 2018
+
+**Today's Progress**: week of because holiday. uggh :(
+**Thoughts:** 101 + 6d -> 107
+
+
+### Day 8: March 31, 2018
+
+**Today's Progress**: more experiments with pixelflut hacking
+
+**Thoughts:** threading is not so easy 
+
+
+### Day 7: March 31, 2018
+
+**Today's Progress**: send http pakets for pixelflut challenge on #easterhegg
+
+**Thoughts:** it was easy to get a square on the beamer, but more difficult with threads
+
+**Link(s) to work**
+1.[https://github.com/defnull/pixelflut]
+
+### Day 6 
+
+**Today's Progress**: day of for travel to easterhegg
++1 -> 101
+
+### Day 5
+
+**Today's Progress**: got mcu unit working with blinken led on esp8266
+
+**Thoughts:** some hardware problems with terminal but it works with reset of the modul
 
 ### Day 4: March 28, 2018
 
