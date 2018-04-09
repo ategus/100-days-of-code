@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 9-15: March 31, 2018
+### Day 16: April 9, 2018
+
+**Today's Progress**: refresh some bash skills
+**Thoughts:** It's good to grind the tools 
+
+**Link(s) to work**
+1.[http://linuxcommand.org/tlcl.php]
+
+
+
+### Day 9-15: April 1 - April 8, 2018
 
 **Today's Progress**: week of because holiday. uggh :(
-**Thoughts:** 101 + 6d -> 107
+**Thoughts:** 101 + 7d -> 108
 
 
-### Day 8: March 31, 2018
+### Day 8: April 1, 2018
 
 **Today's Progress**: more experiments with pixelflut hacking
 
