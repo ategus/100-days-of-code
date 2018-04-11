@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: April 10, 2018
+
+**Today's Progress**: second day of refresh some bash skills
+**Thoughts:** like to create multiple files with echo and cat
+
+**Link(s) to work**
+1.[http://linuxcommand.org/tlcl.php]
+
 ### Day 16: April 9, 2018
 
 **Today's Progress**: refresh some bash skills
