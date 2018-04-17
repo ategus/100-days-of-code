@@ -1,4 +1,15 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Round 1 - Log
+
+### Day 24: April 17, 2018
+
+**Today's Progress**: First steps with ruby
+**Thoughts:** 
+
+**Link(s) to work**
+1.[http://tryruby.org]
+
+### Day 18 - Day 23 : April 11 - April 23, 2018
+
 
 ### Day 17: April 10, 2018
 
