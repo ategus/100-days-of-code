@@ -1,5 +1,13 @@
 # 100 Days Of Code Round 1 - Log
 
+### Day 25: April 18, 2018
+
+**Today's Progress**: linux tools perf, strace, gdb
+**Thoughts:** sometimes it's good to go deep unter the water
+
+**Link(s) to work**
+1.[https://jvns.ca/blog/2018/04/16/new-perf-zine]
+
 ### Day 24: April 17, 2018
 
 **Today's Progress**: First steps with ruby
