@@ -1,5 +1,14 @@
 # 100 Days Of Code Round 1 - Log
 
+### Day 40: Mai 4, 2018
+
+**Today's Progress**: s3 bucket, aws, installed retropy
+**Thoughts:** don't wait to long to realize something, it's good to made a person happy
+
+**Link(s) to work**
+
+
+
 ### Day 25: April 18, 2018
 
 **Today's Progress**: linux tools perf, strace, gdb
