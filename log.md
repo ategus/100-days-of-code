@@ -1,4 +1,7 @@
 # 100 Days Of Code Round 1 - Log
+### Day 81: 14.06.2018
+**Today's Progress**: learn json data format
+**Thoughts:**: Pause was too long, will start Round2 soon
 
 ### Day 40: Mai 4, 2018
 
@@ -6,7 +9,7 @@
 **Thoughts:** don't wait to long to realize something, it's good to made a person happy
 
 **Link(s) to work**
-
+https://www.w3schools.com/js/js_json_intro.asp
 
 
 ### Day 25: April 18, 2018
