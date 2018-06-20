@@ -1,4 +1,12 @@
 # 100 Days Of Code Round 1 - Log
+
+### Day 87: 20.06.2018
+**Today's Progress**: learn web scraping with beautiful soup
+**Thoughts:**: important to find the right tool, the page didn't exist any more but i tried it with another one
+
+**Link(s) to work**
+https://www.youtube.com/watch?v=XQgXKtPSzUI
+
 ### Day 81: 14.06.2018
 **Today's Progress**: learn json data format
 **Thoughts:**: Pause was too long, will start Round2 soon
