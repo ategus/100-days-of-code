@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 1 - Log
 
+### Day 88: 21.06.2018
+**Today's Progress**: finished webscrape project souper. used a config file for ssl connections
+**Thoughts:**: configparser is a nice lib
+**Link(s) to work**
+https://docs.python.org/3/library/configparser.html
+
 ### Day 87: 20.06.2018
 **Today's Progress**: learn web scraping with beautiful soup
 **Thoughts:**: important to find the right tool, the page didn't exist any more but i tried it with another one
