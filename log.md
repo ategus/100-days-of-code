@@ -2,9 +2,11 @@
 
 ### Day 88: 21.06.2018
 **Today's Progress**: finished webscrape project souper. used a config file for ssl connections
+first use with selenium, very nice
 **Thoughts:**: configparser is a nice lib
 **Link(s) to work**
 https://docs.python.org/3/library/configparser.html
+http://selenium-python.readthedocs.io/navigating.html#interacting-with-the-page
 
 ### Day 87: 20.06.2018
 **Today's Progress**: learn web scraping with beautiful soup
